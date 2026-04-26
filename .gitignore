@@ -15,11 +15,6 @@ build/
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
-# Données
-*.nc
-*.csv
-*.parquet
-data/
 
 # Modèles sauvegardés
 *.pt
